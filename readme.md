@@ -1,1 +1,1 @@
-StartUp project for the University
+Game in JavaScript: Rolling Dices
